@@ -1,0 +1,19 @@
+C:\Users\krist\source\repos\Paint_MD\Paint_MD\obj\Debug\Paint_MD.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\Paint_MD\Paint_MD\obj\Debug\Paint_MD.Form1.resources
+C:\Users\krist\source\repos\Paint_MD\Paint_MD\obj\Debug\Paint_MD.Properties.Resources.resources
+C:\Users\krist\source\repos\Paint_MD\Paint_MD\obj\Debug\Paint_MD.csproj.GenerateResource.cache
+C:\Users\krist\source\repos\Paint_MD\Paint_MD\bin\Debug\Paint_MD.exe.config
+C:\Users\krist\source\repos\Paint_MD\Paint_MD\bin\Debug\Paint_MD.exe
+C:\Users\krist\source\repos\Paint_MD\Paint_MD\bin\Debug\Paint_MD.pdb
+C:\Users\krist\source\repos\Paint_MD\Paint_MD\obj\Debug\Paint_MD.exe
+C:\Users\krist\source\repos\Paint_MD\Paint_MD\obj\Debug\Paint_MD.pdb
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\Rennerte_Kristine_IT-P-Ne_Paint_MD\Paint_MD\Paint_MD\obj\Debug\Paint_MD.csprojAssemblyReference.cache
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\Rennerte_Kristine_IT-P-Ne_Paint_MD\Paint_MD\Paint_MD\obj\Debug\Paint_MD.Form1.resources
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\Rennerte_Kristine_IT-P-Ne_Paint_MD\Paint_MD\Paint_MD\obj\Debug\Paint_MD.csproj.GenerateResource.cache
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\Rennerte_Kristine_IT-P-Ne_Paint_MD\Paint_MD\Paint_MD\obj\Debug\Paint_MD.exe
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\Rennerte_Kristine_IT-P-Ne_Paint_MD\Paint_MD\Paint_MD\obj\Debug\Paint_MD.pdb
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\Rennerte_Kristine_IT-P-Ne_Paint_MD\Paint_MD\Paint_MD\bin\Debug\Paint_MD.exe.config
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\Rennerte_Kristine_IT-P-Ne_Paint_MD\Paint_MD\Paint_MD\bin\Debug\Paint_MD.exe
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\Rennerte_Kristine_IT-P-Ne_Paint_MD\Paint_MD\Paint_MD\bin\Debug\Paint_MD.pdb
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\Rennerte_Kristine_IT-P-Ne_Paint_MD\Paint_MD\Paint_MD\obj\Debug\Paint_MD.Properties.Resources.resources
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\Rennerte_Kristine_IT-P-Ne_Paint_MD\Paint_MD\Paint_MD\obj\Debug\Paint_MD.csproj.CoreCompileInputs.cache
